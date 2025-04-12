@@ -1,0 +1,25 @@
+$color: rgb(99, 0, 192);
+
+
+
+ul {
+    font-size: 14px;
+    color: $color;
+}
+
+ol {
+    font-size: 18px;
+    color: $color;
+}
+
+div {
+    font-size: 18px;
+
+    p {
+        color: blue;
+    }
+
+    ul {
+        color: brown;
+    }
+}
